@@ -199,7 +199,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="36"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -264,7 +264,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="72"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
