@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Supply Chain Reports"
+    name="Demand Group"
     id="c0556c7b-bd77-4120-a498-5978b27dbec2">
   <source
       xsi:type="archimate:ApplicationComponent"
