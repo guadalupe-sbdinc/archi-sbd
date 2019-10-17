@@ -113,8 +113,7 @@
         height="151"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="52c665b0-7c47-4db3-9edf-b4c1811860cd"
-        targetConnections="609df5c3-a679-4bc5-b366-6ae5d3bc7c6e">
+        id="52c665b0-7c47-4db3-9edf-b4c1811860cd">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="79536015-15c3-4f95-8d6b-ed86caff4b31"
@@ -157,27 +156,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_4b2963ea-fb5a-48ac-9858-07ce99678d91.xml#4b2963ea-fb5a-48ac-9858-07ce99678d91"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="22809c5e-266a-41c5-a9fc-6bc04d25daa7">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="609df5c3-a679-4bc5-b366-6ae5d3bc7c6e"
-        source="22809c5e-266a-41c5-a9fc-6bc04d25daa7"
-        target="52c665b0-7c47-4db3-9edf-b4c1811860cd">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_3fbcbb28-ec8f-4fe0-9e68-c40f7631d7a8.xml#3fbcbb28-ec8f-4fe0-9e68-c40f7631d7a8"/>
-    </sourceConnections>
-    <bounds
-        x="72"
-        y="144"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_8c98cda6-aefd-44e0-b052-4298eaa9ffaa.xml#8c98cda6-aefd-44e0-b052-4298eaa9ffaa"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -281,7 +259,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1bd27c96-1c9c-4f79-95c7-b22344dde1c0"
-      targetConnections="5e97b4e4-6302-4302-b86a-a41162bea27b 3e1a63e2-b0b9-4c7b-8c99-722e266c851d 11f668ee-5798-4d32-a759-a342991ebbb2">
+      targetConnections="5e97b4e4-6302-4302-b86a-a41162bea27b 11f668ee-5798-4d32-a759-a342991ebbb2 3ffc6da8-fddd-4b80-aa72-fc515782627a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="81f4f1ef-2b4a-4f96-8ce9-55e8610c6b69"
@@ -298,24 +276,24 @@
         height="151"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="5eedbb06-6968-4ea4-a034-201523799623">
+        id="7f874942-aaf5-4398-b1e7-c973084ecef6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="3e1a63e2-b0b9-4c7b-8c99-722e266c851d"
-          source="5eedbb06-6968-4ea4-a034-201523799623"
+          id="3ffc6da8-fddd-4b80-aa72-fc515782627a"
+          source="7f874942-aaf5-4398-b1e7-c973084ecef6"
           target="1bd27c96-1c9c-4f79-95c7-b22344dde1c0">
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_65bf475d-31a4-41c1-ae23-805b9c6e3aa9.xml#65bf475d-31a4-41c1-ae23-805b9c6e3aa9"/>
+            href="SpecializationRelationship_9a635ecd-4a5c-4b3f-b688-c23afb053b42.xml#9a635ecd-4a5c-4b3f-b688-c23afb053b42"/>
       </sourceConnections>
       <bounds
           x="36"
-          y="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_4f66a931-6096-4157-b5f3-5bcebdc6641b.xml#4f66a931-6096-4157-b5f3-5bcebdc6641b"/>
+          href="ApplicationComponent_b35818b5-9e4f-4409-9e14-f68496c4564d.xml#b35818b5-9e4f-4409-9e14-f68496c4564d"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -353,7 +331,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -459,7 +437,7 @@
             href="SpecializationRelationship_134ddad0-e20c-455f-bf05-ee49093621ac.xml#134ddad0-e20c-455f-bf05-ee49093621ac"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="36"
           y="36"
           width="120"
           height="55"/>
