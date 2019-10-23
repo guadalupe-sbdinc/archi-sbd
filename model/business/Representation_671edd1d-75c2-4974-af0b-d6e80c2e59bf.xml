@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GFA - Demand Group report"
-    id="671edd1d-75c2-4974-af0b-d6e80c2e59bf"/>
+    name="GFA - Demand Group Report"
+    id="671edd1d-75c2-4974-af0b-d6e80c2e59bf"
+    documentation="Reporte Forecast Accuracy con error segregado por Demand Group."/>

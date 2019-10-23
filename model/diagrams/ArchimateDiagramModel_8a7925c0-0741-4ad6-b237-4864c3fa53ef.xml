@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. JDA Reports"
     id="8a7925c0-0741-4ad6-b237-4864c3fa53ef"
+    documentation="JDA's reports identified."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

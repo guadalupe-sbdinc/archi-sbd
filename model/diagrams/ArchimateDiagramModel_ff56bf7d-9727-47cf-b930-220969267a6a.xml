@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. Data Lineage - Forecast vs History Report"
     id="ff56bf7d-9727-47cf-b930-220969267a6a"
+    documentation="Data lineage for Forecast vs History Report"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. Data Lineage - LAG Shipment Trend Analysis (SOM Data) Report"
     id="4d37e0ef-54b2-4459-877b-b1ba79739c02"
+    documentation="Data lineage for LAG Shipment Trend Analysis (SOM Data) Report"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

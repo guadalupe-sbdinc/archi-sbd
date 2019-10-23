@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="10.6. CL SBU Hierarchies"
+    name="10.6. SBU business reporting classification"
     id="d9481331-0408-4acf-a661-0442b3e3c352"
+    documentation="Sales Business Units used in business reporting, determined by Product Line field."
     viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -70,11 +71,29 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_07e8aded-268f-49e8-ab4c-dfe58f711268.xml#07e8aded-268f-49e8-ab4c-dfe58f711268"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9d91f96c-e5f1-4478-9ff6-d3de3b5c9306"
+        source="8a34cc07-ab64-4d9c-8577-8bcb5296407c"
+        target="a4e87db9-53f5-4f20-afd8-6a56bcbe31b3">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_cfe46572-ca27-4e67-95f4-07c476445c88.xml#cfe46572-ca27-4e67-95f4-07c476445c88"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="015e2e6d-3fe2-48df-b81e-ad5f6bf515b3"
+        source="8a34cc07-ab64-4d9c-8577-8bcb5296407c"
+        target="f5eec24d-52a5-4b08-9e80-92f132da51b0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_45ca4415-62c0-4e94-b5a7-b8e65cf96e52.xml#45ca4415-62c0-4e94-b5a7-b8e65cf96e52"/>
+    </sourceConnections>
     <bounds
-        x="72"
-        y="72"
-        width="961"
-        height="129"/>
+        x="12"
+        y="12"
+        width="685"
+        height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d0bfc1f6-58a7-4263-aba8-8a9b0ad281b1"
@@ -145,8 +164,8 @@
         id="654c4b2f-9acf-42bb-a974-edd47b81294c"
         targetConnections="13778e1c-465f-4ac5-adc8-90057984051c">
       <bounds
-          x="684"
-          y="36"
+          x="12"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -158,13 +177,39 @@
         id="912a6001-88c5-4fef-8e88-437759c78629"
         targetConnections="41ada77f-6153-4d2b-b1a3-c09d28c96cf7">
       <bounds
-          x="816"
-          y="36"
+          x="288"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_46730593-b977-493e-b51e-1708076fb315.xml#46730593-b977-493e-b51e-1708076fb315"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a4e87db9-53f5-4f20-afd8-6a56bcbe31b3"
+        targetConnections="9d91f96c-e5f1-4478-9ff6-d3de3b5c9306">
+      <bounds
+          x="420"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_003b7b22-cd36-4ae0-bf26-cac4907a2abf.xml#003b7b22-cd36-4ae0-bf26-cac4907a2abf"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f5eec24d-52a5-4b08-9e80-92f132da51b0"
+        targetConnections="015e2e6d-3fe2-48df-b81e-ad5f6bf515b3">
+      <bounds
+          x="156"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_08c5f2d0-045d-40ed-8cae-99e236281f83.xml#08c5f2d0-045d-40ed-8cae-99e236281f83"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessActor"

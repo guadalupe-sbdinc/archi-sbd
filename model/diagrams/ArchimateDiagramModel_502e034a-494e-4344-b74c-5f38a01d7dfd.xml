@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30.1 BR - Application landscape"
     id="502e034a-494e-4344-b74c-5f38a01d7dfd"
-    documentation="Brazil"
+    documentation="Brazil's application landscape"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

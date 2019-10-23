@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="20. Data Lineage - LAG Management"
+    name="20. Data Lineage - LAG Management Report"
     id="3fe0109e-af80-4510-acf8-ed45f2670748"
+    documentation="Data Lineage for LAG Management"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

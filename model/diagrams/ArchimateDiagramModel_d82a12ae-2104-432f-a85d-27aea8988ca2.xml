@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. Data Lineage - GIP - Global Inventory Projection Monthly Version Report"
     id="d82a12ae-2104-432f-a85d-27aea8988ca2"
+    documentation="Data lineage for Global Inventory Projection Monthly Version Report"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

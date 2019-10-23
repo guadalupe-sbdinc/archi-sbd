@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ledger of Accounts"
+    id="5dbb8481-c039-4c59-88dc-d144f948b83e"
+    documentation="Partidas Individuales: P&amp;L por SBU. Sale la información desde la venta gruesa pasando por el G2N, costo y gastos."/>

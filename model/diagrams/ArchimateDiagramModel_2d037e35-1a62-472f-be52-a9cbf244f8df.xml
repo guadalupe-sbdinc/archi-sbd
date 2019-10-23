@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30.1 MX - Application landscape"
     id="2d037e35-1a62-472f-be52-a9cbf244f8df"
-    documentation="Mexico"
+    documentation="Mexico's application landscape"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

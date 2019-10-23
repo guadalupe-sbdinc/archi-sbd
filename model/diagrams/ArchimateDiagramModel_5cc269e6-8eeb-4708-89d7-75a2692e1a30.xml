@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30.1 CCA - Application landscape"
     id="5cc269e6-8eeb-4708-89d7-75a2692e1a30"
+    documentation="Central America &amp; Caribe's application landscape"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

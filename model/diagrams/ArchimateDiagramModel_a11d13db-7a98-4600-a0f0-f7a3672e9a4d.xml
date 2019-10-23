@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. SAP BO Reports"
     id="a11d13db-7a98-4600-a0f0-f7a3672e9a4d"
+    documentation="SAP BO's reports identified."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

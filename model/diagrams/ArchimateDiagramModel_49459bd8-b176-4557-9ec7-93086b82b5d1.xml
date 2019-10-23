@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. SAP MM Reports"
     id="49459bd8-b176-4557-9ec7-93086b82b5d1"
+    documentation="SAP MM's reports identified."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30. Commercial reports - Detailed"
     id="8f53023e-b013-4e47-9c99-c70c1fa2406d"
+    documentation="Commercial reports inventory, for Mexico only."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -477,19 +478,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="8b291767-75e1-42f9-9fa3-04fb16373c45"
-        targetConnections="b99bdbbd-ff84-42d7-aae2-8009a17f7634">
-      <bounds
-          x="156"
-          y="100"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_25061d50-8078-49c8-adf8-57e5da064507.xml#25061d50-8078-49c8-adf8-57e5da064507"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="06ebd0b5-9a96-4626-aa83-9c463385d62e"
         targetConnections="6034d4bb-494f-4b82-a71e-6c8e19b134ac">
       <bounds
@@ -616,6 +604,19 @@
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_48231a91-cb06-4ac1-811b-5592b5de098b.xml#48231a91-cb06-4ac1-811b-5592b5de098b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8b291767-75e1-42f9-9fa3-04fb16373c45"
+        targetConnections="b99bdbbd-ff84-42d7-aae2-8009a17f7634">
+      <bounds
+          x="156"
+          y="100"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_25061d50-8078-49c8-adf8-57e5da064507.xml#25061d50-8078-49c8-adf8-57e5da064507"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

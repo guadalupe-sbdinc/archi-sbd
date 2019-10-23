@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BLACK + DECKER"
-    id="3ba667bb-e67d-41f2-9057-b76aa289baac"/>
+    name="BLACK &amp; DECKER"
+    id="3ba667bb-e67d-41f2-9057-b76aa289baac"
+    documentation="Sales organization 3001.&#xD;&#xA;SBD Brand."/>

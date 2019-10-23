@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SBU - Sales Business Unit"
-    id="29250ccb-f3af-474f-8d34-00277669dba3"/>
+    name="SBU - Sales Business Unit reporting"
+    id="29250ccb-f3af-474f-8d34-00277669dba3"
+    documentation="Sales Business Units used in business reporting, determined by Product Line field."/>

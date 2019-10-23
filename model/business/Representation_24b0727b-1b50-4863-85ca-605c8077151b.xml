@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Demand Review Deck query"
-    id="24b0727b-1b50-4863-85ca-605c8077151b"/>
+    id="24b0727b-1b50-4863-85ca-605c8077151b"
+    documentation="Reporte tipo Dashboard con YOY Demand (Gráfico y table de datos), Trend Overview, Top 10 History (Product Family, Top 10 items), Top 10 Forecast (Product Family, Top 10 items)."/>

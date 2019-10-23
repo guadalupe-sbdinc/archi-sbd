@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Global DP Consumption"
-    id="b3a3e79d-e536-41ff-9be8-90c0c9ce7407"/>
+    name="Global DP Consumption Report"
+    id="b3a3e79d-e536-41ff-9be8-90c0c9ce7407"
+    documentation="Reporte con Demand to Date (Current month) vs Current Forecast. Tracking semanal del equipo de Demanda."/>

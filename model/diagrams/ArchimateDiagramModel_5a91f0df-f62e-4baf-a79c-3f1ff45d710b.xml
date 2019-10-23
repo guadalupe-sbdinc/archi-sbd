@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. Data Lineage - LAG Fill Rate First Pass Report"
     id="5a91f0df-f62e-4baf-a79c-3f1ff45d710b"
+    documentation="Data lineage for LAG Fill Rate First Pass Report"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

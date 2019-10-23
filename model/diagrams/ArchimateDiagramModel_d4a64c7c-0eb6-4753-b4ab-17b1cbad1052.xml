@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="20. SAP SD Reports"
     id="d4a64c7c-0eb6-4753-b4ab-17b1cbad1052"
+    documentation="SAP SD's reports identified."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

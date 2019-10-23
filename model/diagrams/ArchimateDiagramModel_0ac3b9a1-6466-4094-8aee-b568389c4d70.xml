@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30.1 PE - Application landscape"
     id="0ac3b9a1-6466-4094-8aee-b568389c4d70"
-    documentation="Peru"
+    documentation="Peru's application landscape"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
