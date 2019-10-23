@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Read forecast"
+    name="FCST"
     id="b4899154-a968-41f2-a3ba-aa2e95123826"
     accessType="1">
   <source

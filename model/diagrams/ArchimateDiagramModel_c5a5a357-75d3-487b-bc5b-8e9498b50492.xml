@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="30.0. Application landscape - General"
     id="c5a5a357-75d3-487b-bc5b-8e9498b50492"
+    documentation="Generic view for the application landscape in each country, to provide a brief without zoom inside each component"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Order Entry Applications"
-    id="e48dfb44-17b2-4407-9cd0-54b3107af420"/>
+    id="e48dfb44-17b2-4407-9cd0-54b3107af420"
+    documentation="Application intend to recording an order into the company's entry system. Once an order has been entered, the company can view information about this order and make necessary changes for the entry.&#xD;&#xA;"/>

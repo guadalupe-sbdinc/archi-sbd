@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Read sales"
+    name="Sales"
     id="ac05b9b8-4725-4ab8-bdd8-36f36abfdf01"
     accessType="1">
   <source

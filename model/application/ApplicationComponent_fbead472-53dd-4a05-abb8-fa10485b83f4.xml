@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LCI"
-    id="fbead472-53dd-4a05-abb8-fa10485b83f4"/>
+    id="fbead472-53dd-4a05-abb8-fa10485b83f4"
+    documentation="In house application to convert and standarize products from LAG to SAP BW reporting."/>

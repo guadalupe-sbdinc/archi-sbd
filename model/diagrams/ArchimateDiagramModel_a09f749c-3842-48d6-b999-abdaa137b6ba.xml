@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="30. Application landscape - General para país"
+    name="30. Application landscape - General for country"
     id="a09f749c-3842-48d6-b999-abdaa137b6ba"
+    documentation="This is a temporal view only intend to create &quot;Country - Application landscape&quot; view"
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

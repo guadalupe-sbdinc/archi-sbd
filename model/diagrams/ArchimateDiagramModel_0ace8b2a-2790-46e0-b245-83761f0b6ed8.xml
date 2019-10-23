@@ -213,12 +213,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b00cc296-e27c-43c0-830d-f14c2945eaa2"
+        id="5fab1988-9f1d-4f46-a979-40f82326e5ea"
         source="5fcb8770-f713-43bf-8331-3ea0b69e3470"
-        target="c97a7d12-b376-4841-b96a-b5118d3d95b9">
+        target="c0eb924a-3059-40ec-8f27-8223c6bdc8e7">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_e48d5d0c-4048-410d-8627-56f85e6840cc.xml#e48d5d0c-4048-410d-8627-56f85e6840cc"/>
+          href="AssociationRelationship_4244b684-1cb2-423d-b06d-e529ece88676.xml#4244b684-1cb2-423d-b06d-e529ece88676"/>
     </sourceConnections>
     <bounds
         x="432"
@@ -262,19 +262,6 @@
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_862762aa-6fef-4b96-8f0e-d938114b9cdd.xml#862762aa-6fef-4b96-8f0e-d938114b9cdd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c97a7d12-b376-4841-b96a-b5118d3d95b9"
-      targetConnections="b00cc296-e27c-43c0-830d-f14c2945eaa2">
-    <bounds
-        x="1054"
-        y="510"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_bb061b3c-8dd1-4591-8271-5c12a19300dd.xml#bb061b3c-8dd1-4591-8271-5c12a19300dd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -733,5 +720,18 @@
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_04e11605-dc0f-48b8-a68e-ea61e24dfcfb.xml#04e11605-dc0f-48b8-a68e-ea61e24dfcfb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c0eb924a-3059-40ec-8f27-8223c6bdc8e7"
+      targetConnections="5fab1988-9f1d-4f46-a979-40f82326e5ea">
+    <bounds
+        x="1056"
+        y="504"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_7a7b7a7d-f581-4c60-9559-92835b999e7c.xml#7a7b7a7d-f581-4c60-9559-92835b999e7c"/>
   </children>
 </archimate:ArchimateDiagramModel>

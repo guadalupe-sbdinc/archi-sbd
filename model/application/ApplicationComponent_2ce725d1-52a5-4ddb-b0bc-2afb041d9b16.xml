@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ERP applications"
-    id="2ce725d1-52a5-4ddb-b0bc-2afb041d9b16"/>
+    id="2ce725d1-52a5-4ddb-b0bc-2afb041d9b16"
+    documentation="Enterprise resource planning (ERP) is business process management software that allows an organization to use a system of integrated applications to manage the business and automate many back office functions related to technology, services and human resources.&#xD;&#xA;&#xD;&#xA;ERP software typically integrates all facets of an operation — including product planning, development, manufacturing, sales and marketing — in a single database, application and user interface.">
+  <properties
+      key="ERP"
+      value="Enterprise Resource Planning"/>
+</archimate:ApplicationComponent>

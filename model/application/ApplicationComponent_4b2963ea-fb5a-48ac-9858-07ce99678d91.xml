@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Suppy Chain Applications"
-    id="4b2963ea-fb5a-48ac-9858-07ce99678d91"/>
+    id="4b2963ea-fb5a-48ac-9858-07ce99678d91"
+    documentation="Supply chain applications allows the management of the flow of goods and services and includes all processes that transform raw materials into final products. It involves the active streamlining of a business's supply-side activities to maximize customer value and gain a competitive advantage in the marketplace."/>

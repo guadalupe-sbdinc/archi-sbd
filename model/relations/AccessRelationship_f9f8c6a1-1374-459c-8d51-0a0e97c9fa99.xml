@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="History demand"
+    id="f9f8c6a1-1374-459c-8d51-0a0e97c9fa99"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75da7c3f-9099-4c17-ac65-bde47318843d.xml#75da7c3f-9099-4c17-ac65-bde47318843d"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_db271895-a358-4d42-8bba-5a10a608de6d.xml#db271895-a358-4d42-8bba-5a10a608de6d"/>
+</archimate:AccessRelationship>
