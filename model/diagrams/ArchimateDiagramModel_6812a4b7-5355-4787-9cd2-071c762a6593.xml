@@ -18,8 +18,8 @@
           href="CompositionRelationship_cb3d51f1-6697-4d4a-a017-bfd10c17ebca.xml#cb3d51f1-6697-4d4a-a017-bfd10c17ebca"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="226"
+        x="12"
+        y="12"
         width="889"
         height="111"/>
     <children
@@ -137,8 +137,8 @@
           href="SpecializationRelationship_2259cab7-1363-4191-a7c9-5129d83651ed.xml#2259cab7-1363-4191-a7c9-5129d83651ed"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="372"
+        x="756"
+        y="158"
         width="120"
         height="55"/>
     <archimateElement

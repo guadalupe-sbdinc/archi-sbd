@@ -9,8 +9,8 @@
       id="00222dac-236c-47ac-8433-fe5972ba7142"
       targetConnections="4348f59c-cf17-4dfc-8948-b873c75884a7 85ff31d9-da00-4857-ba31-6ef331ae2619 4211fb03-de9f-470b-af17-cbd943e4e80b d42bb152-a155-4404-a262-f469c203bbf5">
     <bounds
-        x="192"
-        y="168"
+        x="12"
+        y="12"
         width="601"
         height="106"/>
     <children
@@ -94,8 +94,8 @@
           href="SpecializationRelationship_286368e6-63f8-4dc3-a8d2-9a760cb33344.xml#286368e6-63f8-4dc3-a8d2-9a760cb33344"/>
     </sourceConnections>
     <bounds
-        x="673"
-        y="312"
+        x="493"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
